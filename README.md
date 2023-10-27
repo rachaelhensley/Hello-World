@@ -19,4 +19,4 @@
 # Conclusions
 Throughout the process of creating my **Hello World** sample, I was able to test out some of the **basic syntax** offered to me. This allowed me to practice and gain a better understanding of how the repositories work.
 
-![Happy Halloween!]((https://github.com/rachaelhensley/Hello-World/assets/149195729/611bb5f8-f22f-4020-8831-a4994ce1d003)
+![Happy Halloween!](https://github.com/rachaelhensley/Hello-World/assets/149195729/611bb5f8-f22f-4020-8831-a4994ce1d003)
