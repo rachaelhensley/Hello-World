@@ -11,9 +11,9 @@
 - This allows me to understand the basics of the GitHub webpage and how to create repositories
 # Running the Program
 --- Hello World
-README.md
-rhensleyfile.csv
-examples.html
+--- README.md
+--- rhensleyfile.csv
+--- examples.html
 # Files
 [Electric Vehicle Population](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 # Conclusions
